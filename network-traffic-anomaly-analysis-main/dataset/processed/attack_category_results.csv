@@ -1,0 +1,6 @@
+dominant_cat,total_windows,detected,detection_rate
+DoS,12.0,12.0,100.0
+Exploits,147.0,144.0,97.95918367346938
+Fuzzers,41.0,36.0,87.8048780487805
+Generic,252.0,251.0,99.60317460317461
+Normal,372.0,14.0,3.763440860215054

@@ -1,0 +1,15 @@
+# Some packages are commented out because they are not necessary for the functionality of the demo, hence, for lightweight deployment, they are not included in the requirements. 
+# However, if you want to run the full code with all functionalities, you can uncomment those lines and install the additional packages.
+
+pandas
+numpy
+scikit-learn
+# matplotlib
+# seaborn
+# shap
+streamlit
+plotly
+scapy
+# xgboost
+# tensorflow
+joblib
